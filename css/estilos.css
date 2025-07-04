@@ -1,0 +1,14 @@
+#img1{
+	width:700px;
+	height: 400px;
+
+}
+body{
+	background: linear-gradient(to top,#ffefe1,lightblue);
+}
+nav ul{
+	list-style: none;
+	width: 600px;
+	text-align: center;
+	background:#00FFFF;
+}
